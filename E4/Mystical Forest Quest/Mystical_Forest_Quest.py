@@ -12,6 +12,7 @@ if path_choice.lower() == "left":
     print("2. Endless Wealth")
     print("3. Infinite Knowledge")
 
+    # noinspection PyInterpreter
     wish_choice = input("Enter the number of the wish you want: ")
 
     if wish_choice == "1":
